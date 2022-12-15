@@ -1,8 +1,14 @@
-.country{
+#root{
   font-family: sans-serif;
+}
+
+.country{
   border: 1px solid #000000;
   border-radius: .2em;
   margin: 1em;
   background-color: rgba(0,0,0,.3);
   padding-left:1em;
+}
+.single-header{
+  text-align: center;
 }
